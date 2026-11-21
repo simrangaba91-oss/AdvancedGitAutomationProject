@@ -6,3 +6,5 @@ def make_greeting(name):
     return f"Hello, {name}!"
 if __name__ == "__main__":
     print("2 + 3 =", add_numbers(2, 3))
+    print(make_greeting("Student"))
+    
